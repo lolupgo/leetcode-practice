@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/lolupgo/leetcode-practice/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/lolupgo/leetcode-practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
