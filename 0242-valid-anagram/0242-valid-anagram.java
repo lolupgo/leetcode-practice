@@ -2,7 +2,6 @@ class Solution {
     public boolean isAnagram(String s, String t) {
 
         int freq[] = new int[130];
-        int freq2[] = new int[130];
 
         if(s.length() != t.length()){
             return false;
@@ -10,12 +9,11 @@ class Solution {
 
         for(int i = 0;i<s.length();i++){
             freq[s.charAt(i)]++;
-            freq2[t.charAt(i)]++;
+            freq[t.charAt(i)]--;
         }
-        for(int i = 0;i<130;i++){
-            if(freq[i]!=freq2[i]){
+        for(int i = 97;i<123;i++){
+            if(freq[i]!=0){
                 return false;
-                
             }
         }
         return true;
