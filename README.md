@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lolupgo/leetcode-practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lolupgo/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lolupgo/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
 ## Sorting
