@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lolupgo/leetcode-practice/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lolupgo/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
 ## Sorting
