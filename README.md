@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/lolupgo/leetcode-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/lolupgo/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lolupgo/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lolupgo/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lolupgo/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
