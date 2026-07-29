@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [3536-maximum-product-of-two-digits](https://github.com/lolupgo/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/lolupgo/leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
