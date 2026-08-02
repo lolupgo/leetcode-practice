@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/lolupgo/leetcode-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [3536-maximum-product-of-two-digits](https://github.com/lolupgo/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/lolupgo/leetcode-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/lolupgo/leetcode-practice/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/lolupgo/leetcode-practice/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/lolupgo/leetcode-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/lolupgo/leetcode-practice/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -113,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/lolupgo/leetcode-practice/tree/master/3663-find-the-least-frequent-digit) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
