@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/lolupgo/leetcode-practice/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
 | [3536-maximum-product-of-two-digits](https://github.com/lolupgo/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/lolupgo/leetcode-practice/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
