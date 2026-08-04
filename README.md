@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/lolupgo/leetcode-practice/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/lolupgo/leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/lolupgo/leetcode-practice/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/lolupgo/leetcode-practice/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/lolupgo/leetcode-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
