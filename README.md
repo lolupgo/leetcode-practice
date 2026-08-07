@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
