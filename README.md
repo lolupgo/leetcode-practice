@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/lolupgo/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/lolupgo/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/lolupgo/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/lolupgo/leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/lolupgo/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
