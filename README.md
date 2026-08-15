@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/lolupgo/leetcode-practice/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lolupgo/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/lolupgo/leetcode-practice/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/lolupgo/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/lolupgo/leetcode-practice/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
