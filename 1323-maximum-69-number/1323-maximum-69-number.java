@@ -1,30 +1,31 @@
 class Solution {
     public int maximum69Number (int num) {
-        int n = 0;
-        while(num>0){
-            n*=10;
-            n += num%10;
-            num/=10;
+       int[] arr=new int[4]; 
+       int j=0;
+       int k=0;
+       int count=0;
+       while(num>0){
+        arr[j++]=num%10;
+        count++;
+        num=num/10;
+       }
+
+       for(int i=count-1;i>=0;i--){
+        if(arr[i]==6){
+            arr[i]=9;
+            break;
         }
-        int ans = 0;
-        System.out.println(n);
-        while(n>0){
-            ans*=10;
-            if(n%10 == 6){
-                ans+=9;
-                n/=10;
-                break;
-            }
-            ans+=n%10;
-            n/=10;
-        }
-        System.out.println(n);
-        System.out.println(ans);
-        while(n>0){
-            ans*=10;
-            ans+=n%10;
-            n/=10;
-        }
-        return ans;
+       }
+
+       int rev=0;
+       int idx=count-1;
+       while(idx>=0){
+        rev=(rev*10)+arr[idx];
+        idx--;
+       }
+
+       return rev;
+
+
     }
 }
