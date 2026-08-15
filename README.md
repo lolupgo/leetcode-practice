@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2278-percentage-of-letter-in-string](https://github.com/lolupgo/leetcode-practice/tree/master/2278-percentage-of-letter-in-string) |
+| [3163-string-compression-iii](https://github.com/lolupgo/leetcode-practice/tree/master/3163-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
