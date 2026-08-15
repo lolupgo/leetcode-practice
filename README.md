@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/lolupgo/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/lolupgo/leetcode-practice/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/lolupgo/leetcode-practice/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
