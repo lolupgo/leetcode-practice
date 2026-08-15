@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lolupgo/leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/lolupgo/leetcode-practice/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/lolupgo/leetcode-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [3536-maximum-product-of-two-digits](https://github.com/lolupgo/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lolupgo/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/lolupgo/leetcode-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1323-maximum-69-number](https://github.com/lolupgo/leetcode-practice/tree/master/1323-maximum-69-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
