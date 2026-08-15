@@ -5,8 +5,6 @@ class Solution {
 
         for(int i = 0;i<len;i++){
             ans[i] = nums[i];
-        }
-        for(int i = 0;i<len;i++){
             ans[i+len] = nums[i];
         }
         return ans;
