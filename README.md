@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lolupgo/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lolupgo/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/lolupgo/leetcode-practice/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lolupgo/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/lolupgo/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2278-percentage-of-letter-in-string](https://github.com/lolupgo/leetcode-practice/tree/master/2278-percentage-of-letter-in-string) |
