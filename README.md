@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lolupgo/leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lolupgo/leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lolupgo/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/lolupgo/leetcode-practice/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -219,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lolupgo/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lolupgo/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lolupgo/leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
