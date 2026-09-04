@@ -1,16 +1,13 @@
 class Solution {
     public boolean checkIfPangram(String s) {
-        HashSet<Character> hs = new HashSet<>();
-
-        int count = 0;
-        for(int i = 0;i<s.length();i++){
-            if(hs.add(s.charAt(i))){
-                count++;
-                if(count == 26){
-                    return true;
-                }
+        if(s.length() < 26){
+            return false;
+        }
+        for(int i = 'a';i<='z';i++){
+            if(s.indexOf(i) == -1){
+                return false;
             }
         }
-        return false;
+        return true;
     }
 }
