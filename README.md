@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lolupgo/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/lolupgo/leetcode-practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lolupgo/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lolupgo/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lolupgo/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lolupgo/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lolupgo/leetcode-practice/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lolupgo/leetcode-practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -242,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/lolupgo/leetcode-practice/tree/master/1025-divisor-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lolupgo/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
