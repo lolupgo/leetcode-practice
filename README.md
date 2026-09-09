@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/lolupgo/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/lolupgo/leetcode-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lolupgo/leetcode-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
