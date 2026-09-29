@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/lolupgo/leetcode-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/lolupgo/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lolupgo/leetcode-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lolupgo/leetcode-practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/lolupgo/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lolupgo/leetcode-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2278-percentage-of-letter-in-string](https://github.com/lolupgo/leetcode-practice/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/lolupgo/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [3163-string-compression-iii](https://github.com/lolupgo/leetcode-practice/tree/master/3163-string-compression-iii) |
 ## Stack
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lolupgo/leetcode-practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lolupgo/leetcode-practice/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/lolupgo/leetcode-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/lolupgo/leetcode-practice/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
