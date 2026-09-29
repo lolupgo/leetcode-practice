@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/lolupgo/leetcode-practice/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lolupgo/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/lolupgo/leetcode-practice/tree/master/2119-a-number-after-a-double-reversal) |
+| [3099-harshad-number](https://github.com/lolupgo/leetcode-practice/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/lolupgo/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/lolupgo/leetcode-practice/tree/master/3663-find-the-least-frequent-digit) |
