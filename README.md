@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lolupgo/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lolupgo/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/lolupgo/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/lolupgo/leetcode-practice/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/lolupgo/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lolupgo/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/lolupgo/leetcode-practice/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/lolupgo/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/lolupgo/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/lolupgo/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/lolupgo/leetcode-practice/tree/master/0771-jewels-and-stones) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lolupgo/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lolupgo/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lolupgo/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/lolupgo/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/lolupgo/leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/lolupgo/leetcode-practice/tree/master/1025-divisor-game) |
