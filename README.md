@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/lolupgo/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/lolupgo/leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/lolupgo/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/lolupgo/leetcode-practice/tree/master/1025-divisor-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lolupgo/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/lolupgo/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/lolupgo/leetcode-practice/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/lolupgo/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/lolupgo/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
