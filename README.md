@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lolupgo/leetcode-practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/lolupgo/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lolupgo/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/lolupgo/leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/lolupgo/leetcode-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lolupgo/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lolupgo/leetcode-practice/tree/master/0342-power-of-four) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/lolupgo/leetcode-practice/tree/master/0008-string-to-integer-atoi) |
+| [0171-excel-sheet-column-number](https://github.com/lolupgo/leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/lolupgo/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lolupgo/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lolupgo/leetcode-practice/tree/master/0344-reverse-string) |
