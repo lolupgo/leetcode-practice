@@ -1,0 +1,11 @@
+class Solution {
+    public int titleToNumber(String s) {
+        int len = s.length();
+        int sum = 0;
+        for(int i = 0;i<len;i++){
+            sum *= 26;
+            sum += s.charAt(i) - 64;
+        }
+        return sum;
+    }
+}
