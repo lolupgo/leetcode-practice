@@ -14,16 +14,30 @@
  * }
  */
 class Solution {
-    
-    public int sumOfLeftLeaves(TreeNode root) {
-        if(root == null)return 0;
-        if(root.left == null)return sumOfLeftLeaves(root.right);
-        //leaf node
 
-        if(root.left.left == null && root.left.right == null){
-            return root.left.val + sumOfLeftLeaves(root.right);
+    public int ans = 0;
+    public void sum(TreeNode root, char a){
+
+        
+        if(root.left != null) sum(root.left,'l');
+        if(root.right !=null) sum(root.right,'r');
+
+        if(root.left== null && root.right==null && a=='l'){
+            ans+=root.val;
         }
 
-        return sumOfLeftLeaves(root.left) + sumOfLeftLeaves(root.right);
+        
+
+
+    }
+    
+    public int sumOfLeftLeaves(TreeNode root) {
+        
+        ans = 0;
+        if (root!=null){
+            sum(root, 'r');
+        }
+
+        return ans;
     }
 }
